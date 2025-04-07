@@ -14,6 +14,9 @@ This repository contains a collection of research papers focused on Super-Resolu
 7. [Image Super-Resolution using Generative Adversarial Networks with EfficientNetV2](./Image%20Super-Resolution%20using%20Generative%20Adversarial%20Networks%20with%20EfficientNetV2.pdf)
 8. [PSRGAN - Perception-Design-Oriented Image Super Resolution Generative Adversarial Network](./PSRGAN%20-%20Perception-Design-Oriented%20Image%20Super%20Resolution%20Generative%20Adversarial%20Network.pdf)
 9. [SUPER RESOLUTION USING A GENERATIVE ADVERSARIAL NETWORK](./SUPER%20RESOLUTION%20USING%20A%20GENERATIVE%20ADVERSARIAL%20NETWORK.pdf)
+10. [Image Completion and Image Super Resolution Using Generative Adversarial Network](./Image%20Completion%20and%20Image%20Super%20Resolution%20Using%20Generative%20Adversarial%20Network.pdf)
+11. [Image Super-Resolution Using Generative Adversarial Networks with Learned Degradation Operators](./Image%20Super-Resolution%20Using%20Generative%20Adversarial%20Networks%20with%20Learned%20Degradation%20Operators.pdf)
+12. [Research on Image Super‐Resolution Using Attention Mechanisms based on Super‐Resolution Generative Adversarial Network](./Research%20on%20Image%20Super%E2%80%90Resolution%20Using%20Attention%20Mechanisms%20based%20on%20Super%E2%80%90Resolution%20Generative%20Adversarial%20Network.pdf)
 
 ### Video Super-Resolution
 1. [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](./Real-Time%20Single%20Image%20and%20Video%20Super-Resolution%20Using%20an%20Efficient%20Sub-Pixel%20Convolutional%20Neural%20Network.pdf)
@@ -29,12 +32,15 @@ This repository contains a collection of research papers focused on Super-Resolu
 11. [Super Resolution of Videos using ESRGAN](./Super%20Resolution%20of%20Videos%20using%20ESRGAN.pdf)
 12. [Video Super Resolution With Generative Adversarial Network](./Video%20Super%20Resolution%20With%20Generative%20Adversarial%20Network.pdf)
 13. [Image and Video Super Resolution using Recurrent Generative Adversarial Network](./Image%20and%20Video%20Super%20Resolution%20using%20Recurrent%20Generative%20Adversarial%20Network.pdf)
+14. [Efficient Video Super-Resolution Using Generative Adversarial Networks and Temporal Consistency Constraints](./Efficient%20Video%20Super-Resolution%20Using%20Generative%20Adversarial%20Networks%20and%20Temporal%20Consistency%20Constraints.pdf)
+15. [METHODS OF VIDEO QUALITY-IMPROVING](./METHODS%20OF%20VIDEO%20QUALITY-IMPROVING.pdf)
 
 ### Surveys and Overviews
 1. [An Overview of Video Super-Resolution Algorithms](./An%20Overview%20of%20Video%20Super-Resolution%20Algorithms.pdf)
 2. [A Survey on Image Super-Resolution with Generative Adversarial Networks](./A%20Survey%20on%20Image%20Super-Resolution%20with%20Generative%20Adversarial%20Networks.pdf)
 3. [A Review Super Resolution Using Generative Adversarial Network-Applications and Challenges](./A%20Review%20Super%20Resolution%20Using%20Generative%20Adversarial%20Network-Applications%20and%20Challenges.pdf)
 4. [A Survey on Super Resolution for video Enhancement Using GAN](./A%20Survey%20on%20Super%20Resolution%20for%20video%20Enhancement%20Using%20GAN.pdf)
+5. [Super-Resolution on Image and Video](./Super-Resolution%20on%20Image%20and%20Video.pdf)
 
 ### Related Applications
 1. [Internet Video Delivery Improved by Super-Resolution with GAN](./Internet%20Video%20Delivery%20Improved%20by%20Super-Resolution%20with%20GAN.pdf)
@@ -44,4 +50,5 @@ This repository contains a collection of research papers focused on Super-Resolu
 ## Notes
 - All papers are in PDF format
 - Files are organized by their primary focus area
-- Each paper is linked to its corresponding file in the repository 
+- Each paper is linked to its corresponding file in the repository
+- Total number of papers: 37 
