@@ -17,6 +17,7 @@ This repository contains a collection of research papers focused on Super-Resolu
 10. [Image Completion and Image Super Resolution Using Generative Adversarial Network](./Image%20Completion%20and%20Image%20Super%20Resolution%20Using%20Generative%20Adversarial%20Network.pdf)
 11. [Image Super-Resolution Using Generative Adversarial Networks with Learned Degradation Operators](./Image%20Super-Resolution%20Using%20Generative%20Adversarial%20Networks%20with%20Learned%20Degradation%20Operators.pdf)
 12. [Research on Image Super‐Resolution Using Attention Mechanisms based on Super‐Resolution Generative Adversarial Network](./Research%20on%20Image%20Super%E2%80%90Resolution%20Using%20Attention%20Mechanisms%20based%20on%20Super%E2%80%90Resolution%20Generative%20Adversarial%20Network.pdf)
+13. [Generative Adversarial Networks and Perceptual Losses for Video Super-Resolution V2](./Generative%20Adversarial%20Networks%20and%20Perceptual%20Losses%20for%20Video%20Super-Resolution%20V2.pdf)
 
 ### Video Super-Resolution
 1. [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](./Real-Time%20Single%20Image%20and%20Video%20Super-Resolution%20Using%20an%20Efficient%20Sub-Pixel%20Convolutional%20Neural%20Network.pdf)
@@ -51,4 +52,4 @@ This repository contains a collection of research papers focused on Super-Resolu
 - All papers are in PDF format
 - Files are organized by their primary focus area
 - Each paper is linked to its corresponding file in the repository
-- Total number of papers: 37 
+- Total number of papers: 36 
